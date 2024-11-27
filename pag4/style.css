@@ -1,0 +1,70 @@
+body {
+    
+    background-color:#0B3D2E;
+    color: white;
+    margin: 0;
+    padding: 0;
+}
+.header {
+    text-align: center;
+    padding: 20px;
+    font-size: 36px;
+    font-weight: bold;
+    font-family: 'Oswald', sans-serif;
+   
+}
+.header a {
+    margin: 0;
+    font-size: 36px;
+    text-decoration: none;
+    color: inherit;
+}
+
+.ancoras {
+    display: flex;
+    justify-content: center;
+    background-color: #0B3D2E;
+    padding: 10px 0;
+    border-bottom: 1px solid #ffffff;
+
+}
+
+.ancoras a {
+    color: white;
+    text-decoration: none;
+    margin: 0 15px;
+    font-size: 18px;
+}
+
+.ancoras a.tur {
+    color: #A3C1AD;
+}
+
+
+.textos {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+    padding: 20px;
+}
+.card {
+    background-color: #4A6A58;
+    border-radius: 15px;
+    margin: 15px;
+    padding: 20px;
+    width: 300px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    text-align: center;
+    margin-right: 20px;
+}
+.card img {
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+}
+.card p {
+    color: white;
+    font-size: 16px;
+    margin-top: 15px;
+}
