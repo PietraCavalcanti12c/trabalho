@@ -1,0 +1,10 @@
+{
+    “cleanUrls”: true,
+    “rewrites”: [
+      { “source”: “/pag1”, “destination”: “/pag1/index.html” },
+      { “source”: “/pag2”, “destination”: “/pag2/index.html” },
+      { “source”: “/pag3”, “destination”: “/pag3/index.html” },
+      { “source”: “/pag4”, “destination”: “/pag4/index.html” }
+    ]
+  }
+  
